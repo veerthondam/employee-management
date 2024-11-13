@@ -17,7 +17,7 @@
         <h1>Employee Management System</h1>
 
         <div>
-          <button>Add Employee</button>
+          <button class="add-emp">Add Employee</button>
         </div>
       </div>
 
@@ -33,7 +33,33 @@
           <div class="emply-section">This is the block, we're displaying</div>
         </div>
       </div>
+      <div class="employ-add-section">
+        <form>
+          <h2>ADD Employee Details</h2>
+          <input
+            type="text"
+            placeholder="firstname"
+            name="firstName"
+            id="firstname"
+          />
+          <input
+            type="text"
+            placeholder="lastname"
+            name="lastName"
+            id="lastname"
+          />
+          <input type="text" placeholder="email" name="email" id="email" />
+          <input
+            type="text"
+            placeholder="contact"
+            name="contact"
+            id="contact"
+          />
+          <input type="submit" value="SUBMIT" />
+        </form>
+      </div>
     </div>
+
     <script src="script.js"></script>
   </body>
 </html>
