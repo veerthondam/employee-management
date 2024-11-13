@@ -142,3 +142,10 @@
     background-color: #1976d2;
     color: #fff;
 }
+
+.employee-details {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin-top: 1rem;
+}

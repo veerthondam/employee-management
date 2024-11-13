@@ -50,7 +50,6 @@ loadApi();
 
 const renderEmployees = (employees) => {
   let empList = document.querySelector(".employee-list");
-  empList.dataset.activeId = employees[0].id;
   empList.innerHTML = "";
   empList.innerHTML = employees
     .map((data, index) => {
@@ -97,7 +96,17 @@ const displayEmployee = (clickedEmployee) => {
               : "./assets/noimage.png"
           }"  alt=${clickedEmployee.firstName}>
         </div>
-          <div>${clickedEmployee.firstName} ${clickedEmployee.lastName}</div>
+          <div class="employee-details">
+            <div class="title">
+              ${clickedEmployee.firstName} ${clickedEmployee.lastName}
+            </div>
+            <div class="email">
+              ${clickedEmployee.email}
+            </div>
+            <div class="email">
+              ${clickedEmployee.contactNumber}
+            </div>
+          </div>
         </div>
         `;
 };
