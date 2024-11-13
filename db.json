@@ -1,0 +1,91 @@
+[
+    {
+        "id": 1,
+        "imageUrl": "01.jpeg",
+        "firstName": "Raja",
+        "lastName": "Mouli",
+        "email": "Raja.mouli@gmail.com",
+        "contactNumber": "999999999"
+      
+    },
+    {
+        "id": 2,
+        "imageUrl": "02.jpg",
+        "firstName": "Ntr",
+        "lastName": "jnr",
+        "email": "jnr.ntr@gmail.com",
+        "contactNumber": "999999999"
+      
+    },
+    {
+        "id": 3,
+        "imageUrl": "3.jpeg",
+        "firstName": "Surya",
+        "lastName": "jyothika",
+        "email": "Surya.jy@gmail.com",
+        "contactNumber": "999999999"
+       
+    },
+    {
+        "id": 4,
+        "imageUrl": "04.jpg",
+        "firstName": "cheery",
+        "lastName": "k",
+        "email": "cheery.k@gmail.com",
+        "contactNumber": "999999999"
+       
+    },
+    {
+        "id": 5,
+        "imageUrl": "05.avif",
+        "firstName": "bunny",
+        "lastName": "taggedale",
+        "email": "bunny.t@gmail.com",
+        "contactNumber": "999999999"
+        
+    },
+    {
+        "id": 6,
+        "imageUrl": "",
+        "firstName": "avinash",
+        "lastName": "maguri",
+        "email": "avinash.maguri@gmail.com",
+        "contactNumber": "999999999"
+    },
+    {
+        "id": 7,
+        "imageUrl": "",
+        "firstName": "shabari",
+        "lastName": "otto",
+        "email": "shabari.otto@gmail.com",
+        "contactNumber": "999999999"
+       
+    },
+    {
+        "id": 8,
+        "imageUrl": "",
+        "firstName": "chaithanya",
+        "lastName": "kk",
+        "email": "chaithanya.kk@gmail.com",
+        "contactNumber": "999999999"
+       
+    },
+    {
+        "id": 9,
+        "imageUrl": "",
+        "firstName": "Brajesh",
+        "lastName": "tyu",
+        "email": "Brajesh.tyu.com",
+        "contactNumber": "999999999"
+      
+    },
+    {
+        "id": 10,
+        "imageUrl": "",
+        "firstName": "bharath",
+        "lastName": "rachha",
+        "email": "bharath.rachha@gmail.com",
+        "contactNumber": "999999999"
+       
+    }
+]
